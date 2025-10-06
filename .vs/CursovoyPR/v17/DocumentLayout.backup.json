@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dakva\\source\\repos\\CursovoyPR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79F56103-D251-4FAF-B3AB-3F3894F723DD}|CursovoyPR\\CursovoyPR.vcxproj|C:\\Users\\dakva\\source\\repos\\CursovoyPR\\CursovoyPR\\authorization.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79F56103-D251-4FAF-B3AB-3F3894F723DD}|CursovoyPR\\CursovoyPR.vcxproj|solutionrelative:CursovoyPR\\authorization.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F56103-D251-4FAF-B3AB-3F3894F723DD}|CursovoyPR\\CursovoyPR.vcxproj|C:\\Users\\dakva\\source\\repos\\CursovoyPR\\CursovoyPR\\authorization.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79F56103-D251-4FAF-B3AB-3F3894F723DD}|CursovoyPR\\CursovoyPR.vcxproj|solutionrelative:CursovoyPR\\authorization.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F56103-D251-4FAF-B3AB-3F3894F723DD}|CursovoyPR\\CursovoyPR.vcxproj|C:\\Users\\dakva\\source\\repos\\CursovoyPR\\CursovoyPR\\funkt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79F56103-D251-4FAF-B3AB-3F3894F723DD}|CursovoyPR\\CursovoyPR.vcxproj|solutionrelative:CursovoyPR\\funkt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F56103-D251-4FAF-B3AB-3F3894F723DD}|CursovoyPR\\CursovoyPR.vcxproj|C:\\Users\\dakva\\source\\repos\\CursovoyPR\\CursovoyPR\\MenuSh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79F56103-D251-4FAF-B3AB-3F3894F723DD}|CursovoyPR\\CursovoyPR.vcxproj|solutionrelative:CursovoyPR\\MenuSh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F56103-D251-4FAF-B3AB-3F3894F723DD}|CursovoyPR\\CursovoyPR.vcxproj|C:\\Users\\dakva\\source\\repos\\CursovoyPR\\CursovoyPR\\MenuSh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79F56103-D251-4FAF-B3AB-3F3894F723DD}|CursovoyPR\\CursovoyPR.vcxproj|solutionrelative:CursovoyPR\\MenuSh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79F56103-D251-4FAF-B3AB-3F3894F723DD}|CursovoyPR\\CursovoyPR.vcxproj|C:\\Users\\dakva\\source\\repos\\CursovoyPR\\CursovoyPR\\CursovoyPR.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79F56103-D251-4FAF-B3AB-3F3894F723DD}|CursovoyPR\\CursovoyPR.vcxproj|solutionrelative:CursovoyPR\\CursovoyPR.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CursovoyPR.cpp",
+              "DocumentMoniker": "C:\\Users\\dakva\\source\\repos\\CursovoyPR\\CursovoyPR\\CursovoyPR.cpp",
+              "RelativeDocumentMoniker": "CursovoyPR\\CursovoyPR.cpp",
+              "ToolTip": "C:\\Users\\dakva\\source\\repos\\CursovoyPR\\CursovoyPR\\CursovoyPR.cpp",
+              "RelativeToolTip": "CursovoyPR\\CursovoyPR.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-15T16:18:24.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "funkt.cpp",
+              "DocumentMoniker": "C:\\Users\\dakva\\source\\repos\\CursovoyPR\\CursovoyPR\\funkt.cpp",
+              "RelativeDocumentMoniker": "CursovoyPR\\funkt.cpp",
+              "ToolTip": "C:\\Users\\dakva\\source\\repos\\CursovoyPR\\CursovoyPR\\funkt.cpp",
+              "RelativeToolTip": "CursovoyPR\\funkt.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-16T13:45:20.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuSh.h",
+              "DocumentMoniker": "C:\\Users\\dakva\\source\\repos\\CursovoyPR\\CursovoyPR\\MenuSh.h",
+              "RelativeDocumentMoniker": "CursovoyPR\\MenuSh.h",
+              "ToolTip": "C:\\Users\\dakva\\source\\repos\\CursovoyPR\\CursovoyPR\\MenuSh.h",
+              "RelativeToolTip": "CursovoyPR\\MenuSh.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-17T09:45:09.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuSh.cpp",
+              "DocumentMoniker": "C:\\Users\\dakva\\source\\repos\\CursovoyPR\\CursovoyPR\\MenuSh.cpp",
+              "RelativeDocumentMoniker": "CursovoyPR\\MenuSh.cpp",
+              "ToolTip": "C:\\Users\\dakva\\source\\repos\\CursovoyPR\\CursovoyPR\\MenuSh.cpp",
+              "RelativeToolTip": "CursovoyPR\\MenuSh.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-17T09:58:44.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "authorization.h",
+              "DocumentMoniker": "C:\\Users\\dakva\\source\\repos\\CursovoyPR\\CursovoyPR\\authorization.h",
+              "RelativeDocumentMoniker": "CursovoyPR\\authorization.h",
+              "ToolTip": "C:\\Users\\dakva\\source\\repos\\CursovoyPR\\CursovoyPR\\authorization.h",
+              "RelativeToolTip": "CursovoyPR\\authorization.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-17T09:49:37.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "authorization.cpp",
+              "DocumentMoniker": "C:\\Users\\dakva\\source\\repos\\CursovoyPR\\CursovoyPR\\authorization.cpp",
+              "RelativeDocumentMoniker": "CursovoyPR\\authorization.cpp",
+              "ToolTip": "C:\\Users\\dakva\\source\\repos\\CursovoyPR\\CursovoyPR\\authorization.cpp",
+              "RelativeToolTip": "CursovoyPR\\authorization.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-17T09:49:43.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
