@@ -4,6 +4,7 @@
 #include "authorization.h"
 #include <fstream>
 #include <iomanip>
+#include "globals.h"
 
 using namespace std;
 
@@ -64,7 +65,7 @@ void authorization::SinInCheck()
 	fstream f;
 	string inf;
 	VvodAut();
-	f.open("D:/Work/oop/test2.txt");
+	f.open(Author_FILE_NAME);
 	while (getline(f, inf)) {
 		size_t spacePos = inf.find(' ');
 		string LoginF = inf.substr(0, spacePos);
@@ -73,7 +74,7 @@ void authorization::SinInCheck()
 		}
 	}
 	f.close();
-	f.open("D:/Work/oop/test2.txt", ios::out | ios::app); 
+	f.open(Author_FILE_NAME, ios::out | ios::app);
 	f << cn <<"/"<< endl;
 	an = 2;
 	f.close();
@@ -86,7 +87,7 @@ void authorization::LogInCheck()
 	int x = 0;
 	string inf;
 	VvodAut();
-	f.open("D:/Work/oop/test2.txt");
+	f.open(Author_FILE_NAME);
 	while (getline(f, inf)) {
 		size_t spacePos = inf.find('/');
 		string Logpas = inf.substr(0, spacePos);
@@ -119,12 +120,12 @@ void authorization::sisans()
 	}
 	case 2: {
 		cout << "Ты зарегестировался, поздравляю"<<endl;
-		CK = false;
+		IsReg = false;
 		break;
 	}
 	case 3: {
 		cout << "Ты успешно зашел"<<endl;
-		CK = false;
+		IsReg = false;
 		break;
 	}
 	case 4: {
@@ -133,8 +134,8 @@ void authorization::sisans()
 	}
 	case 5: {
 		cout << "Ты успешно зашел в качестве администратора" << endl;
-		CK = false;
-		m = 1;
+		IsReg = false;
+		IsAdmin = 1;
 		break;
 	}
 	case 0: {

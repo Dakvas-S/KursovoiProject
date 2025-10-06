@@ -1,6 +1,6 @@
 #include "funkts.h"
 void author(authorization A) {
-    while (A.CK) {
+    while (A.getIsReg()) {
         A.couttextA(1);
         switch (A.vibauth()) {
         case 1: { A.getin();break; }
@@ -14,8 +14,10 @@ void author(authorization A) {
 }
 
 void menuus(authorization A) {
-    switch (A.m) {
-    case 0:{}
-    case 1: {}
+    if (A.getIsAdmin()) {
+    
+    }
+    else {
+
     }
 }

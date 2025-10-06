@@ -5,9 +5,10 @@ class authorization
 {
 	string cn1="", cn2="", cn="";
 	int an = 0;
+	bool IsReg = true, IsAdmin = false;
 	
 public:
-	bool CK = true; int m = 0;
+	 
 
 	void couttextA(int b);//вывести текст для разных целей
 	int vibauth();// выбор пункта меню
@@ -26,5 +27,7 @@ public:
 
 	void ohist();// очистка ввода
 	
+	int getIsAdmin() const { return IsAdmin; };
+	bool getIsReg() const { return IsReg; };
 };
 

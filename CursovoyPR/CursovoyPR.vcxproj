@@ -126,12 +126,16 @@
     <ClCompile Include="authorization.cpp" />
     <ClCompile Include="CursovoyPR.cpp" />
     <ClCompile Include="funkt.cpp" />
+    <ClCompile Include="globals.cpp" />
     <ClCompile Include="MenuSh.cpp" />
+    <ClCompile Include="Reys.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="authorization.h" />
     <ClInclude Include="funkts.h" />
+    <ClInclude Include="globals.h" />
     <ClInclude Include="MenuSh.h" />
+    <ClInclude Include="Reys.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\.gitinore.txt" />
